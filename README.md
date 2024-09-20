@@ -1,7 +1,16 @@
 # hello_world
 
 A new Flutter project.
+Hasil Praktikum 1
+![Screenshot hello_world](images/01.png)
 
+Hasil Praktikum 2
+![Screenshot hello_world](images/02.png)
+
+Hasil Praktikum 3
+![Screenshot hello_world](images/01.png)
+
+Hasil Praktikum 4
 ![Screenshot hello_world](images/01.png)
 
 ## Getting Started
