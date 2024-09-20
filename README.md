@@ -21,4 +21,4 @@ Hasil Praktikum 4
 Pada Praktikum 04, Menerapkan scaffold widget, dialog dan alert widget, input dan selection widget, terakhit Date dan time pickers
 
 Link Pembelajaran :
-https://jti-polinema.github.io/flutter-codelab/06-widget-dasar-flutter/#8
+https://jti-polinema.github.io/flutter-codelab/06-widget-dasar-flutter/#0
