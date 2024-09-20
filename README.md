@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Screenshot hello_world](images/01.png)
+![Screenshot hello_world](images/2024-09-20 074512.png)
 
 ## Getting Started
 
